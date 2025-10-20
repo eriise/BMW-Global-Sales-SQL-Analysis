@@ -268,13 +268,3 @@ ORDER BY year;
     
     Continue offering a variety of models in Asia, as the market responds well to multiple vehicle types, ensuring broad appeal.
     
-
-To help BMW understand global sales trends and make smarter business decisions, I followed these steps:
-
-1. **Collected the Data:** Compiled worldwide sales data including region, model, year, color, engine size, fuel type, transmission, sales volume, and price.
-2. **Cleaned the Data:** Checked for inconsistencies, missing values, and ensured numeric fields like sales and prices were correct.
-3. **Explored the Data:** Looked at trends by region, model, year, color, and fuel type to see which combinations drive revenue.
-4. **Analyzed the Data:** Used SQL to calculate totals, averages, rankings, and year-over-year changes. For example, I identified top-performing regions, most sold models, and revenue leaders by color and engine type.
-5. **Faced Challenges:** Handling a large, multi-dimensional dataset was complex, especially comparing multiple regions, models, and sales years simultaneously.
-6. **Generated Insights:** Found that Asia and Europe are the highest revenue regions, i8 and 7 Series are top models in certain markets, petrol is preferred in Africa, hybrids in Europe/Asia, and Grey, Red, and Blue are the most popular colors. Revenue fluctuates year-over-year with clear peaks.
-7. **Made Recommendations:** Suggested prioritizing high-revenue regions, promoting top models, keeping popular colors in stock, adapting regional fuel offerings, and using historical sales trends to plan future strategies.
